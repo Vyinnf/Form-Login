@@ -80,7 +80,7 @@
   button {
     border: none;
     padding: 12px 45px;
-    background-color: #ff4b2b;
+    background-color: #2b40ff;
     color: #fff;
     font-size: 12px;
     font-weight: bold;
@@ -120,7 +120,7 @@
   }
   
   .overlay {
-    background: linear-gradient(to right, #ff4b2b, #ff416c);
+    background: linear-gradient(to right, #2bffe6, #5a41ff);
     color: #ffffff;
     position: relative;
     left: -100%;
